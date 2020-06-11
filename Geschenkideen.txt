@@ -1,3 +1,5 @@
 Insel
 Flugzeug
 Villa
+Helikopter
+Schwimmbad
